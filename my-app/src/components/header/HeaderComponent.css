@@ -11,3 +11,8 @@
 	justify-content: space-around;
 	align-items: center;
 }
+
+.list-item a {
+	text-decoration: none;
+	color: white;
+}
