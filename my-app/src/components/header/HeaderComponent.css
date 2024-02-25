@@ -3,13 +3,16 @@
 	width: 100%;
 	background-color: rgb(3, 3, 107);
 	color: white;
+	justify-content: center;
+	align-items: center;
 }
 
 .list-container {
-	height: 60%;
+	height: 60px;
 	display: flex;
 	justify-content: space-around;
 	align-items: center;
+	list-style-type: none;
 }
 
 .list-item a {
