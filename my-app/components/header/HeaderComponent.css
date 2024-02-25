@@ -1,0 +1,13 @@
+.header-container {
+	height: 60px;
+	width: 100%;
+	background-color: rgb(3, 3, 107);
+	color: white;
+}
+
+.list-container {
+	height: 60%;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
