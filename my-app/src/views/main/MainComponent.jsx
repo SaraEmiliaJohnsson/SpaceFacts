@@ -6,25 +6,25 @@ export default function MainComponent() {
 	return (
 		<div className="main-component--container">
 			<section className="image-container">
-				<Link to="/" className="link link1">
+				<Link to="/neptunus" className="link link1">
 					Neptunus
 				</Link>
-				<Link to="/" className="link link2">
+				<Link to="/uranus" className="link link2">
 					Uranus
 				</Link>
-				<Link to="/" className="link link3">
+				<Link to="/saturnus" className="link link3">
 					Saturnus
 				</Link>
-				<Link to="/" className="link link4">
+				<Link to="/jupiter" className="link link4">
 					Jupiter
 				</Link>
-				<Link to="/" className="link link5">
+				<Link to="/mars" className="link link5">
 					Mars
 				</Link>
-				<Link to="/" className="link link6">
+				<Link to="/jorden" className="link link6">
 					Jorden
 				</Link>
-				<Link to="/" className="link link7">
+				<Link to="/venus" className="link link7">
 					Venus
 				</Link>
 				<Link to="/merkurius" className="link link8">

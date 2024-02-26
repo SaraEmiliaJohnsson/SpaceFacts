@@ -5,6 +5,12 @@ import FooterComponent from "./components/footer/FooterComponent";
 import MainComponent from "./views/main/MainComponent";
 import MerkuriusComponent from "./views/merkurius/MerkuriusComponent";
 import JordenComponent from "./views/jorden/JordenComponent";
+import VenusComponent from "./views/venus/VenusComponent";
+import MarsComponent from "./views/mars/MarsComponent";
+import JupiterComponent from "./views/jupiter/JupiterComponent";
+import SaturnusComponent from "./views/saturnus/SaturnusComponent";
+import UranusComponent from "./views/uranus/UranusComponent";
+import NeptunusComponent from "./views/neptunus/NeptunusComponent";
 
 function App() {
 	return (
@@ -17,6 +23,12 @@ function App() {
 						<Route path="/" element={<MainComponent />} />
 						<Route path="/merkurius" element={<MerkuriusComponent />} />
 						<Route path="/jorden" element={<JordenComponent />} />
+						<Route path="/venus" element={<VenusComponent />} />
+						<Route path="/mars" element={<MarsComponent />} />
+						<Route path="/jupiter" element={<JupiterComponent />} />
+						<Route path="/saturnus" element={<SaturnusComponent />} />
+						<Route path="/uranus" element={<UranusComponent />} />
+						<Route path="/neptunus" element={<NeptunusComponent />} />
 					</Routes>
 					<FooterComponent />
 				</div>

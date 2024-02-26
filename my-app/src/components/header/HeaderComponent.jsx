@@ -18,25 +18,25 @@ export default function HeaderComponent() {
 							<Link to="/merkurius">Merkurius</Link>
 						</li>
 						<li className="list-item">
-							<Link to="/">Venus</Link>
+							<Link to="/venus">Venus</Link>
 						</li>
 						<li className="list-item">
-							<Link to="/">Jorden</Link>
+							<Link to="/jorden">Jorden</Link>
 						</li>
 						<li className="list-item">
-							<Link to="/">Mars</Link>
+							<Link to="/mars">Mars</Link>
 						</li>
 						<li className="list-item">
-							<Link to="/">Jupiter</Link>
+							<Link to="/jupiter">Jupiter</Link>
 						</li>
 						<li className="list-item">
-							<Link to="/">Saturnus</Link>
+							<Link to="/saturnus">Saturnus</Link>
 						</li>
 						<li className="list-item">
-							<Link to="/">Uranus</Link>
+							<Link to="/uranus">Uranus</Link>
 						</li>
 						<li className="list-item">
-							<Link to="/">Neptunus</Link>
+							<Link to="/neptunus">Neptunus</Link>
 						</li>
 					</ul>
 				</nav>

@@ -1,0 +1,13 @@
+.uranus-container {
+	height: 100vh;
+	width: 100vw;
+	background-color: black;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.uranus-image {
+	height: 220px;
+	width: 470px;
+}
