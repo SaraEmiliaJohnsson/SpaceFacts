@@ -27,7 +27,7 @@ export default function MainComponent() {
 				<Link to="/" className="link link7">
 					Venus
 				</Link>
-				<Link to="/" className="link link8">
+				<Link to="/merkurius" className="link link8">
 					Merkurius
 				</Link>
 				<Link to="/" className="link link9">
