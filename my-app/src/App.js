@@ -11,6 +11,7 @@ import JupiterComponent from "./views/jupiter/JupiterComponent";
 import SaturnusComponent from "./views/saturnus/SaturnusComponent";
 import UranusComponent from "./views/uranus/UranusComponent";
 import NeptunusComponent from "./views/neptunus/NeptunusComponent";
+import SolenComponent from "./views/solen/SolenComponent";
 
 function App() {
 	return (
@@ -29,6 +30,7 @@ function App() {
 						<Route path="/saturnus" element={<SaturnusComponent />} />
 						<Route path="/uranus" element={<UranusComponent />} />
 						<Route path="/neptunus" element={<NeptunusComponent />} />
+						<Route path="/solen" element={<SolenComponent />} />
 					</Routes>
 					<FooterComponent />
 				</div>

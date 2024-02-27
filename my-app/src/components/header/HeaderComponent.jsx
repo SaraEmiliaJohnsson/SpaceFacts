@@ -12,7 +12,7 @@ export default function HeaderComponent() {
 							<Link to="/">Space</Link>
 						</li>
 						<li className="list-item">
-							<Link to="/">Sun</Link>
+							<Link to="/solen">Sun</Link>
 						</li>
 						<li className="list-item">
 							<Link to="/merkurius">Merkurius</Link>
