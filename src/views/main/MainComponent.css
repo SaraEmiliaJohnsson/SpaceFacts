@@ -1,0 +1,54 @@
+.image-container {
+	position: relative;
+}
+
+.link {
+	text-decoration: none;
+	color: white;
+	position: absolute;
+}
+
+.link1 {
+	top: 289px;
+	left: 110px;
+}
+
+.link2 {
+	top: 289px;
+	left: 225px;
+}
+
+.link3 {
+	top: 289px;
+	left: 360px;
+}
+
+.link4 {
+	top: 289px;
+	left: 523px;
+}
+
+.link5 {
+	top: 289px;
+	left: 635px;
+}
+
+.link6 {
+	top: 289px;
+	left: 735px;
+}
+
+.link7 {
+	top: 289px;
+	left: 830px;
+}
+
+.link8 {
+	top: 289px;
+	left: 910px;
+}
+
+.link9 {
+	top: 340px;
+	left: 1138px;
+}

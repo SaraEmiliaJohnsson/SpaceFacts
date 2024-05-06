@@ -1,0 +1,13 @@
+.jorden-container {
+	background-color: black;
+	height: 100vh;
+	width: 100vw;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.jorden-image {
+	height: 200px;
+	width: 200px;
+}
